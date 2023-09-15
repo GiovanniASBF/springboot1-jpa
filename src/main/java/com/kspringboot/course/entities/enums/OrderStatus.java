@@ -1,4 +1,4 @@
-package com.kspringboot.course.enums;
+package com.kspringboot.course.entities.enums;
 
 public enum OrderStatus {
 	WAITING_PAYMENT(1),
