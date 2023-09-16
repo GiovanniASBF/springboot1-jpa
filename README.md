@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Este é um projeto de back end construído durante o curso Java COMPLETO 2023 Programação Orientada a Objetos +Projetos, ministrado pelo professor Nelio Alves.
+Este é um projeto de back end construído durante o curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo/), na plataforma da **[Udemy](https://www.udemy.com/)**, ministrado pelo professor Nelio Alves.
 
 Os objetivos deste projeto são:
 
