@@ -1,30 +1,28 @@
-# Sobre o projeto
+# About the project
 
-Este é um projeto de back end construído durante o curso [Java COMPLETO 2023 Programação Orientada a Objetos +Projetos](https://www.udemy.com/course/java-curso-completo/), na plataforma da **[Udemy](https://www.udemy.com/)**, ministrado pelo professor Nelio Alves.
+The objectives of this project are:
 
-Os objetivos deste projeto são:
-
-- Criar projeto Spring Boot Java;
-- Implementar modelo de domínio;
-- Estruturar camadas lógicas: resource, service, repository;
-- Configurar banco de dados de teste (H2);
-- Povoar o banco de dados;
+- Create Spring Boot Java project;
+- Implement a domain model;
+- Structure logical layers: resource, service, repository;
+- Set up a test database (H2);
+- Populate the database;
 - CRUD - Create, Retrieve, Update, Delete;
-- Tratamento de exceções.
+- Exception handling.
 
-## Modelo conceitual
-![Modelo Conceitual](https://raw.githubusercontent.com/GiovanniASBF/springboot1-jpa/main/modelo_conceitual.png)
+## Conceptual model
+![Conceptual model](https://raw.githubusercontent.com/GiovanniASBF/springboot1-jpa/main/modelo_conceitual.png)
 
-## Camadas logicas
-![Camadas Logicas](https://raw.githubusercontent.com/GiovanniASBF/springboot1-jpa/main/camadas_logicas.png)
+## Logical layers
+![Logical layers](https://raw.githubusercontent.com/GiovanniASBF/springboot1-jpa/main/camadas_logicas.png)
 
-# Tecnologias utilizadas
+# Tools
 - Java
 - Spring Boot
 - JPA / Hibernate
 - Maven
 
-# Autor
+# Author
 
 Giovanni Aguiar de Sousa Bernardes Figueiredo
 
